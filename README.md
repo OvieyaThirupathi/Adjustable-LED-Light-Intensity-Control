@@ -131,7 +131,7 @@ The potentiometer is adjusted to obtain the required LED illumination.
 
 A. Breadboard Setup
 
-\[Insert your circuit setup photo here\]
+![image alt](https://github.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-Control/blob/fca03b6dc18a03a561a37c925ae3b25eeacd7351/LDR%20CC.jpeg)
 
 B. LED in Working Condition
 
