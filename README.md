@@ -119,7 +119,7 @@ Project Video / Demo:
 
 **12\. Circuit Diagram**
 
-\[Add Circuit Diagram Image Here\]
+https://github.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-Control/blob/ce8c476663c912bc3e2d0007153c519298ccce76/CC%20LDR.jpeg
 
 **Circuit Flow:**
 ![image alt](image_url)https://raw.githubusercontent.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-
