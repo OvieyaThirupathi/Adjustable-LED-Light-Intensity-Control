@@ -122,7 +122,7 @@ Project Video / Demo:
 \[Add Circuit Diagram Image Here\]
 
 **Circuit Flow:**
-
+![image alt](image_url)https://raw.githubusercontent.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity- 
 9V Battery → Potentiometer → Resistor → LED → Battery
 
 The potentiometer is adjusted to obtain the required LED illumination.
