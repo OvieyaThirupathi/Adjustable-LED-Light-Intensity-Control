@@ -122,7 +122,7 @@ Project Video / Demo:
 https://github.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-Control/blob/ce8c476663c912bc3e2d0007153c519298ccce76/CC%20LDR.jpeg
 
 **Circuit Flow:**
-![image alt](image_url)https://raw.githubusercontent.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-
+![image alt](https://github.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-Control/blob/7c1b7cf2606a6d5ffd498c19ae7846fe52352b88/CC%20LDR.jpeg)
 9V Battery → Potentiometer → Resistor → LED → Battery
 
 The potentiometer is adjusted to obtain the required LED illumination.
