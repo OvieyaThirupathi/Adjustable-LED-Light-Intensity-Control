@@ -135,9 +135,5 @@ A. Breadboard Setup
 
 B. LED in Working Condition
 
-\[Insert your LED glowing photo here\]
-
-C. Potentiometer Adjustment
-
-\[Insert photo showing potentiometer being adjusted here\]
+[!image alt](https://github.com/OvieyaThirupathi/Adjustable-LED-Light-Intensity-Control/blob/fbc4d80c07a0b1b35813a3ad12bedbe3d43dd0a5/WORKING%20LDR.jpeg)
 
