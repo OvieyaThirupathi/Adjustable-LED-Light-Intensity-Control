@@ -112,10 +112,6 @@ By combining a potentiometer with an LED circuit, different levels of illuminati
 
 The experiment provides practical exposure to electrical resistance, current control, circuit connections and LED characteristics.
 
-**11\. Project Demonstration**
-
-Project Video / Demo:  
-\[Add Video Link Here\]
 
 **12\. Circuit Diagram**
 
